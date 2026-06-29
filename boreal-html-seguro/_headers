@@ -1,0 +1,7 @@
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: no-referrer
+  X-Frame-Options: SAMEORIGIN
+  X-Robots-Tag: noindex, nofollow, noarchive
+  Permissions-Policy: camera=(self), clipboard-write=(self), clipboard-read=(), geolocation=(), microphone=(), payment=(), usb=(), serial=(), bluetooth=(), midi=(), gyroscope=(), magnetometer=(), fullscreen=(self)
+  Content-Security-Policy: default-src 'none'; script-src 'self'; style-src 'self'; img-src 'self' data: blob:; connect-src 'none'; font-src 'none'; media-src 'none'; object-src 'none'; base-uri 'none'; form-action 'none'; frame-ancestors 'self'; worker-src 'none'; manifest-src 'none'; upgrade-insecure-requests
